@@ -1,0 +1,5 @@
+v1=float(input('qual é a largura daparede em M ?'))
+v2=float(input('qual é a altura de sua parede  em M?'))
+v3=v1*v2
+v4=print('esse é a area de sua parede:',v3,'2m²')
+v5=print('essa sera a quantidade de tintas que sera ultilizada é :',v3/2,'L')
